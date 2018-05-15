@@ -6,7 +6,8 @@ This is a game between two players whereby if a player gets a hundred points,the
 ## Setup/Installation Requirements
 * For player one,keep rolling the dice until he gets one as his number,that way player two can play.
 * If player one doesn't get their result as one,he can choose either to continue playing or hold so that player two can play.
-No server is required to run the app.All you need is to open up the webpage and get into the game!
+No server is required to run the app.All you need is to open up the webpage: https://annstella.github.io/Pigdice/
+ and get into the game!
 ## Known Bugs
 No known bugs
 ## Technologies Used
