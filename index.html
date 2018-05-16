@@ -16,17 +16,20 @@
       <div class="row">
         <div class="col-md-6 one">
           <h2>player 1</h2>
-            <button type="button" onclick="roll()">roll</button>
-            <button type="button" onclick="roll()">hold</button>
+            <button type="button" class="btn1">roll</button>
+            <button type="button" class="btn2">hold</button>
           <p>Results:</p>
+          <p id="tempscore1"></p>
+          <p id="score1"></p>
         </div>
         <div class="col-md-6 two">
           <h2>player 2</h2>
-            <button type="button" onclick="roll()">roll</button>
-            <button type="button" onclick="roll()">hold</button>
+            <button type="button" class="pl1" disabled>roll</button>
+            <button type="button" class="pl2" disabled>hold</button>
           <p>Results:</p>
+          <p id="tempscore2"></p>
+          <p id="score2"></p>
         </div>
-      <p id="dice"></p>
       </div>
     </div>
 
